@@ -2,3 +2,4 @@ Characters:
 1)Lion
 2)Rabbit
 3)Other animals
+4)Deer
